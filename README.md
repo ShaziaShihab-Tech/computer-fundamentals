@@ -29,6 +29,7 @@ I created this repository to:
 I am a beginner in tech, exploring AI, Machine Learning, and IoT.
 
 ---
+https://canva.link/98baxdgwl0lk2h4
 
 ⭐ Follow my journey as I grow in tech!
 
