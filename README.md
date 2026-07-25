@@ -1,6 +1,7 @@
 # 💻 Computer Fundamentals
 
-This repository contains my learning notes and explanations about how computers work.
+This repository contains my learning notes as I begin exploring computer fundamentals.
+ 
 
 ## 📌 What I am learning
 - Basics of computers
