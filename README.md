@@ -29,6 +29,7 @@ I created this repository to:
 I am a beginner in tech, exploring AI, Machine Learning, and IoT.
 
 ---
+
 ⭐ Follow my journey as I grow in tech!
 
 ## ✨ Author
