@@ -1,46 +1,34 @@
-# computer-fundamentals
-Learning computer science step by step
-# 🚀 Computer Fundamentals
+# 💻 Computer Fundamentals
 
-## 📌 About This Repository
-This repository contains my learning journey of core computer science concepts.  
-I am building a strong foundation by understanding how computers work internally.
+This repository contains my learning notes and explanations about how computers work.
 
----
+## 📌 What I am learning
+- Basics of computers
+- How CPU works
+- Memory and storage
+- Input and output devices
+- Operating system basics
 
-## 🧠 Topics Covered
+## 🎯 Purpose
+I created this repository to:
+- Build a strong foundation in computer science
+- Document my learning journey
+- Help other beginners understand concepts easily
 
-### 💻 What is a Computer?
-A computer is an electronic machine that processes data and converts it into meaningful information.
+## 🚀 Progress
+- Started learning computer fundamentals
+- Adding notes regularly
 
----
+## 📚 Future Plans
+- Add diagrams and visuals
+- Include simple examples
+- Expand into programming basics
 
-### ⚙️ How CPU Works
-The CPU (Central Processing Unit) executes instructions using the **fetch-decode-execute cycle**.
-
----
-
-### 🔢 What is Binary?
-Binary is the language of computers, represented using only **0s and 1s**.
-
----
-
-### 🚀 How Programs Run
-Programs are converted into machine code and executed step-by-step by the CPU.
-
----
-
-## 🎯 Goal
-To master computer science fundamentals, become a confident developer, and build impactful solutions as a future tech entrepreneur.
+## 👩‍💻 About Me
+I am a beginner in tech, exploring AI, Machine Learning, and IoT.
 
 ---
-
-## 📅 Progress
-- [x] Basic understanding of computer concepts
-- [ ] Deep dive into memory and processes
-- [ ] Learn programming basics
-
----
+⭐ Follow my journey as I grow in tech!
 
 ## ✨ Author
 **P.Shazia Shihab**
